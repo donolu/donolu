@@ -14,7 +14,7 @@ My data engineering tools live under **[pipewell](https://github.com/pipewell)**
 
 | Project | Description |
 |---|---|
-| [jira-ingest](https://github.com/pipewell/jira-ingest) | Async Jira Cloud pipeline — fetches projects, boards, issues and transitions into any SQLAlchemy-compatible database |
+| [jira-ingest](https://github.com/pipewell/jira-ingest) | Async Jira Cloud pipeline: fetches projects, boards, issues and transitions into any SQLAlchemy-compatible database |
 | [confluence-publisher](https://github.com/pipewell/confluence-publisher) | GitHub Action that publishes Markdown docs to Confluence Cloud or Data Center |
 
 ## Languages and tools
