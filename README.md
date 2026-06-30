@@ -12,10 +12,10 @@ Data engineer and Python developer. I build data pipelines, Django/Flask web app
 
 My data engineering tools live under **[pipewell](https://github.com/pipewell)**.
 
-| Project | Description |
-|---|---|
-| [jira-ingest](https://github.com/pipewell/jira-ingest) | Async Jira Cloud pipeline: fetches projects, boards, issues and transitions into any SQLAlchemy-compatible database |
-| [confluence-publisher](https://github.com/pipewell/confluence-publisher) | GitHub Action that publishes Markdown docs to Confluence Cloud or Data Center |
+| Project | Description | |
+|---|---|---|
+| [jira-ingest](https://github.com/pipewell/jira-ingest) | Async Jira Cloud pipeline: fetches projects, boards, issues and transitions into any SQLAlchemy-compatible database | [![PyPI](https://img.shields.io/pypi/v/pipewell-jira-ingest.svg)](https://pypi.org/project/pipewell-jira-ingest/) |
+| [confluence-publisher](https://github.com/pipewell/confluence-publisher) | GitHub Action that publishes Markdown docs to Confluence Cloud or Data Center | [![PyPI](https://img.shields.io/pypi/v/pipewell-confluence-publisher.svg)](https://pypi.org/project/pipewell-confluence-publisher/) |
 
 ## Languages and tools
 
